@@ -30,7 +30,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 <details>
 	<summary>Day 0 - Tools Installation </summary>
 	
-# Week 0 - Tools Installation
+# Week 0 - Setup and Tools Installation
 ## Task 1
 
 ## Task 2
@@ -66,10 +66,15 @@ $ sudo apt install gtkwave
 - Installed and verified **open-source EDA tools** successfully.  
 - Learned about **basic environment setup** for RTL design and synthesis.  
 - Prepared the system for upcoming **RTL → GDSII flow experiments**.
+</details>
 
+</div>
 
-## 🙏 Acknowledgment  
+---
 
+## 🙏 **Acknowledgment**
 I am thankful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for the opportunity to participate in the ongoing **RISC-V SoC Tapeout Program**.  
 
 I also acknowledge the support of **RISC-V International**, **India Semiconductor Mission (ISM)**, **VLSI Society of India (VSI)**, and [**Efabless**](https://github.com/efabless) for making this initiative possible.  
+<div align="center">
+

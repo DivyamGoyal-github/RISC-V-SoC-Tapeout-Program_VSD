@@ -94,6 +94,8 @@ This covers the complete journey of designing a **System-on-Chip (SoC)**, starti
 * Run **LVS (Layout vs. Schematic)** to confirm layout matches logical design.
 * A clean DRC/LVS means the design is ready for fabrication (tape-out).
 
+<img width="575" alt="yosys" src="week 0/assets/Task1_RTLtoGDS_Flow.png">
+
 ---
 
 ## ✅ Final Validation
@@ -108,6 +110,8 @@ The SoC design is declared successful when:
 * **O4** → Final SoC with Peripherals
 
 This equivalence ensures the chip behaves **consistently** across specification, RTL, integration, and physical implementation.
+
+<img width="575" alt="yosys" src="week 0/assets/Task1goal.png">
 
 ## Task 2
 

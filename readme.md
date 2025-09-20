@@ -61,9 +61,6 @@ $ sudo apt update
 $ sudo apt install gtkwave
 ```
 <img width="1008" alt="gtkwave" src="week 0/assets/gtkwave.png">
-</details>
-
-<details>
 
 ### 🌟 Key Learnings from Week 0
 - Installed and verified **open-source EDA tools** successfully.  

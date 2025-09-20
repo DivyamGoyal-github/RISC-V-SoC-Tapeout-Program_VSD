@@ -28,10 +28,9 @@ This repository documents my **week-by-week progress** with tasks inside each we
 </div>
 
 <details>
-	<summary>Day 0 - Tools Installation </summary>
+	<summary>Week 0 - Setup and Tools Installation </summary>
 	
-# Week 0 - Setup and Tools Installation
-## Task 1
+# Task 1
 ## RTL to GDSII SoC Design Flow
 
 This covers the complete journey of designing a **System-on-Chip (SoC)**, starting from high-level specifications and ending at a verified GDSII layout.
@@ -113,7 +112,7 @@ This equivalence ensures the chip behaves **consistently** across specification,
 
 <img width="575" alt="yosys" src="week 0/assets/Task1goal.png">
 
-## Task 2
+# Task 2
 
 ## Yosys
 ```

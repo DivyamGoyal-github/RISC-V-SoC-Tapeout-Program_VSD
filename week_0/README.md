@@ -63,7 +63,7 @@ This covers the complete journey of designing a **System-on-Chip (SoC)**, starti
 * Run **LVS (Layout vs. Schematic)** to confirm layout matches logical design.
 * A clean DRC/LVS means the design is ready for fabrication (tape-out).
 
-<img width="575" alt="yosys" src="week_0/assets/Task1_RTLtoGDS_Flow.png">
+<img width="575" alt="Verification" src="./assets/Task1_RTLtoGDS_Flow.png">
 
 ---
 
@@ -80,7 +80,7 @@ The SoC design is declared successful when:
 
 This equivalence ensures the chip behaves **consistently** across specification, RTL, integration, and physical implementation.
 
-<img width="575" alt="yosys" src="week_0/assets/Task1goal.png">
+<img width="575" alt="final_val" src="./assets/Task1goal.png">
 
 ## Task 2
 
@@ -96,20 +96,20 @@ $ sudo apt-get install build-essential clang bison flex \
 $ make 
 $ sudo make install
 ```
-<img width="575" alt="yosys" src="week_0/assets/yosys.png">
+<img width="575" alt="yosys" src="./assets/yosys.png">
 
 ## Iverilog
 ```
 $ sudo apt-get install iverilog
 ```
-<img width="702" alt="iverilog" src="week_0/assets/iverilog.png">
+<img width="702" alt="iverilog" src="./assets/iverilog.png">
 
 ## GTKWave
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
 ```
-<img width="1008" alt="gtkwave" src="week_0/assets/gtkwave.png">
+<img width="1008" alt="gtkwave" src="./assets/gtkwave.png">
 
 ### 🌟 Key Learnings from Week 0
 - Installed and verified **open-source EDA tools** successfully.  

@@ -147,6 +147,23 @@ $ sudo apt install gtkwave
 - Prepared the system for upcoming **RTL → GDSII flow experiments**.
 </details>
 
+#### **Core RTL Design & Synthesis Tools**
+
+| Tool | Purpose | Verification |
+|------|---------|--------------|
+| 🧠 **Yosys** | RTL Synthesis & Logic Optimization | ✅ Verified |
+| 📟 **Iverilog** | Verilog Simulation & Compilation | ✅ Verified |
+| 📊 **GTKWave** | Waveform Viewer & Analysis | ✅ Verified |
+| ⚡ **Ngspice** | Analog & Mixed-Signal Simulation | ✅ Verified |
+| 🎨 **Magic VLSI** | Layout Design & DRC Verification | ✅ Verified |
+
+#### **Advanced Flow Tools**
+
+| Tool | Purpose | Verification |
+|------|---------|--------------|
+| 🐳 **Docker** | Containerization Platform | ✅ Verified |
+| 🌊 **OpenLane** | Complete RTL-to-GDSII Flow | ✅ Verified |
+
 </div>
 
 ---
